@@ -26,7 +26,7 @@ except Exception as e:
 def load_questions():
     questions = []
     try:
-        with open(r'C:\Users\GOPAL\Desktop\pp\questions.txt', "r") as file:
+        with open('questions.txt', "r") as file:
             for line in file:
                 question, category, weight = line.strip().split("|")
                 questions.append((question, category, float(weight)))
