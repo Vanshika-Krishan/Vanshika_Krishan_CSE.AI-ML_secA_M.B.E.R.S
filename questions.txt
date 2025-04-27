@@ -1,0 +1,39 @@
+I feel energized after social interactions.|EI|1.2
+I enjoy being the center of attention.|EI|1.5
+I prefer talking to a group rather than one-on-one.|EI|1.3
+I find myself speaking before thinking.|EI|1.1
+I enjoy working in a lively and fast-paced environment.|EI|1.2
+I am comfortable initiating conversations with strangers.|EI|1.4
+I recharge by spending time alone rather than socializing.|EI|1.3
+I reflect deeply before sharing my thoughts.|EI|1.2
+I prefer small, close-knit gatherings over large events.|EI|1.3
+I focus more on real-world details than abstract concepts.|SN|1.2
+I trust facts and experience over theories and possibilities.|SN|1.5
+I enjoy discussing hypothetical scenarios.|SN|1.3
+I prefer practical solutions over creative ones.|SN|1.2
+I notice details others often miss.|SN|1.3
+I like to experiment rather than follow step-by-step instructions.|SN|1.4
+I focus more on the present than the future.|SN|1.3
+I am drawn to patterns, meanings, and possibilities.|SN|1.5
+I find inspiration in abstract theories.|SN|1.2
+I rely on past experiences to guide decisions.|SN|1.1
+I prioritize logic over emotions when making decisions.|TF|1.5
+I value fairness over personal relationships in decision-making.|TF|1.3
+I prefer constructive criticism over emotional support.|TF|1.4
+I make decisions based on data rather than gut feelings.|TF|1.2
+I feel uncomfortable when others show strong emotions.|TF|1.2
+I avoid conflict even if it means sacrificing logic.|TF|1.1
+I prioritize harmony and people's feelings over objectivity.|TF|1.4
+I analyze situations without letting emotions interfere.|TF|1.3
+I often make decisions based on what feels right emotionally.|TF|1.2
+I find it difficult to separate emotions from decisions.|TF|1.2
+I prefer structured plans over spontaneous decisions.|JP|1.5
+I dislike sudden changes in my schedule.|JP|1.3
+I make detailed to-do lists and follow them strictly.|JP|1.4
+I complete tasks well before deadlines rather than last minute.|JP|1.2
+I feel uncomfortable without a clear plan for the day.|JP|1.3
+I keep my options open rather than making firm commitments.|JP|1.4
+I adapt quickly when plans change.|JP|1.3
+I work better under pressure and close deadlines.|JP|1.2
+I value flexibility and prefer not to be bound by rigid plans.|JP|1.3
+I prefer a step-by-step approach rather than going with the flow.|JP|1.2
